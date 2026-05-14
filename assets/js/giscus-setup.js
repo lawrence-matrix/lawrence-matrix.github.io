@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "lawrence-matrix/personal-website",
+    "data-repo": "lawrence-matrix/lawrence-matrix.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
