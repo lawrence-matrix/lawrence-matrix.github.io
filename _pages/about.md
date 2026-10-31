@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo.jpg
+  image: 6.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>633 Clark Street</p>
