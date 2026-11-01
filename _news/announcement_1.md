@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my PhD’s journey at Northwestern! :sparkles: :smile:
+I begin my PhD’s journey at Northwestern! :sparkles: :smile:
