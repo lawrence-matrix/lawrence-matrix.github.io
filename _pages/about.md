@@ -30,7 +30,8 @@ Welcome to my homepage! I am currently a Ph.D. candidate in the Department of El
 
 My research interests lie in the intersection of Artificial intelligence and Economics:
 
-- **Multi-Agent Reinforcement Learning**, 
+- **Multi-Agent Reinforcement Learning**,
 - **Algorithmic Game Theory**, 
+- **Trustworthy AI**, 
 - **Agentic RL**, 
 - **LLM Post-training**.
